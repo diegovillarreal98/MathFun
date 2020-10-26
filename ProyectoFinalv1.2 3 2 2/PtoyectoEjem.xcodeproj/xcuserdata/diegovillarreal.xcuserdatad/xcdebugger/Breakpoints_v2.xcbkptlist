@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FE18BB22-F6F5-475B-93B7-24177A4C4CCE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCF48650-6735-4FBD-BE37-187F2BF56291"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PtoyectoEjem/ViewControllerMemorama.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "CCF48650-6735-4FBD-BE37-187F2BF56291 - 4c5cebc2ae27e745"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PtoyectoEjem.ViewControllerMemorama.numberOfCellsPerRow.getter : CoreGraphics.CGFloat"
+                  moduleName = "PtoyectoEjem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diegovillarreal/Downloads/ProyectoFinalv1.2%203%202%202/PtoyectoEjem/ViewControllerMemorama.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "CCF48650-6735-4FBD-BE37-187F2BF56291 - ca36f8e2f12efd91"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PtoyectoEjem.ViewControllerMemorama.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PtoyectoEjem.ViewControllerMemorama"
+                  moduleName = "PtoyectoEjem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diegovillarreal/Downloads/ProyectoFinalv1.2%203%202%202/PtoyectoEjem/ViewControllerMemorama.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "551">
+               </Location>
+               <Location
+                  uuid = "CCF48650-6735-4FBD-BE37-187F2BF56291 - a6c6009a19f673c3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PtoyectoEjem.ViewControllerMemorama.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PtoyectoEjem.ViewControllerMemorama&gt;"
+                  moduleName = "PtoyectoEjem"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/diegovillarreal/Downloads/ProyectoFinalv1.2%203%202%202/PtoyectoEjem/ViewControllerMemorama.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "507">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
